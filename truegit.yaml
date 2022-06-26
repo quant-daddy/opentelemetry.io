@@ -1,2 +1,4 @@
 blogFolder: "./content/en/blog"
 title: OpenTelemetry Blog Clone
+layout:
+  type: Manhattan
