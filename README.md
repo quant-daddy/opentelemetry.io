@@ -1,5 +1,7 @@
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OpenTelemetry Icon" width="45" height=""> OpenTelemetry.io
 
+# Update
+
 This is the source repo for the [OpenTelemetry][] website and project
 documentation. The site is [built][contributing.md] using [Hugo][] and hosted on
 [Netlify][].
